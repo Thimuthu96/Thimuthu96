@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thimuthu Pathirana</h1>
-<h3 align="center">Full-Stack Mobile Developer | Flutter • React • Firebase • Node.js</h3>
+<h3 align="center">Full-Stack Mobile Developer | Flutter • Node.js • React • Firebase • Node.js • Java</h3>
 
 <p align="center">
 I build high-performance mobile and web applications with modern UI/UX and scalable backends.
@@ -10,7 +10,8 @@ Currently focused on Flutter and moving toward becoming a Full-Stack Mobile Engi
 
 ### 🚀 What I Do
 - 📱 Build cross-platform mobile apps with **Flutter**
-- 🌐 Develop web apps with **React & Node.js**
+- 🌐 Develop web apps with **React**
+- 🌐 Develop backend solutions with **Java/Nodejs/php**
 - 🔥 Create real-time systems using **Firebase & REST APIs**
 - 🎨 Design clean and user-friendly **UI/UX with Figma**
 - 🧠 Currently expanding into **React Native, iOS & Android**
@@ -21,15 +22,15 @@ Currently focused on Flutter and moving toward becoming a Full-Stack Mobile Engi
 
 **Mobile**
 <br/>
-Flutter · Dart · Firebase · REST APIs
+Flutter · ReactNative · Android · Firebase · REST APIs
 
 **Frontend**
 <br/>
-React · JavaScript · HTML · CSS · Sass · Redux
+React · JavaScript · TypeScript · HTML · CSS · Sass · Redux
 
 **Backend**
 <br/>
-Node.js · Express · Firebase · MongoDB · MySQL · SQL Server
+Node.js · Java · Php · Express · Firebase · MongoDB · MySQL · SQL Server
 
 **Tools**
 <br/>
@@ -55,9 +56,9 @@ Figma · Postman · Git · VS Code
 <a href="https://linkedin.com/in/thimuthu-pamuditha" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://codesandbox.com/thimuthu96" target="_blank">
+<!-- <a href="https://codesandbox.com/thimuthu96" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40"/>
-</a>
+</a> -->
 </p>
 
 ---
@@ -65,6 +66,7 @@ Figma · Postman · Git · VS Code
 ### 🧰 Languages & Tools
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -74,6 +76,7 @@ Figma · Postman · Git · VS Code
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
+
 
 
 
