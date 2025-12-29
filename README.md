@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thimuthu Pathirana</h1>
+<h1 align="center">Hi 👋, I'm Thimuthu Pamuditha</h1>
 <h3 align="center">Full-Stack Mobile Developer | Flutter • Node.js • React • Firebase • Node.js • Java</h3>
 
 <p align="center">
